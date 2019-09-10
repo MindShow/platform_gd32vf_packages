@@ -1,0 +1,41 @@
+{
+    "framework-gd32vf103_firmware_library":[
+    {
+        "sha1": "87b37cc83493784b9cc8cc0cced0a579728d5812",
+        "system": "*",
+        "url": "http://dl.sipeed.com/LONGAN/platformio/dl-packages/framework-gd32vf103_firmware_library-0.1.1.tar.gz",
+        "version": "0.1.1"
+	}
+    ],
+    "framework-arduino-gd32v":[
+    {
+        "sha1": "0791bc2f745c0b7884458294c6cc1ef281896e4f",
+        "system": "*",
+        "url": "http://dl.sipeed.com/LONGAN/platformio/dl-packages/framework-arduino-gd32v-demo-0.1.1.tar.gz",
+        "version": "0.1.1"
+    }
+    ],
+    "tool-openocd-gd32v": [
+    {
+        "sha1": "eff52b3e1e810cfa7480a54754a897ffc64bbfe2", 
+        "system": "darwin_x86_64", 
+        "url": "http://dl.sipeed.com/LONGAN/platformio/dl-packages/tool-openocd-gd32v-darwin-0.1.0.tar.gz", 
+        "version": "0.1.0"
+    }, 
+    {
+        "sha1": "c730024abc18dae47f2a5c6187f67553072690e2", 
+        "system": "linux_x86_64", 
+        "url": "http://dl.sipeed.com/LONGAN/platformio/dl-packages/tool-openocd-gd32v-linux-0.1.0.tar.gz", 
+        "version": "0.1.0"
+    }, 
+    {
+        "sha1": "fa77a10d6bf2f321341e0dfc684c672d47a71636", 
+        "system": [
+          "windows_x86", 
+          "windows_amd64"
+        ], 
+        "url": "http://dl.sipeed.com/LONGAN/platformio/dl-packages/tool-openocd-gd32v-win-0.1.0.tar.gz", 
+        "version": "0.1.0"
+    }
+    ]
+}
